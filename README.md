@@ -26,7 +26,6 @@ Let's join forces and create something extraordinary together. Reach out and let
 
 🌟 [GitHub](https://github.com/munsif-solkar)
 📧 [Email](munsifsolkar3@gmail.com)
-
-[Instagram](https://instagram.com/munsif_solkar)
+😗 [Instagram](https://instagram.com/munsif_solkar)
 
 Looking forward to collaborating with fellow developers, visionaries, and anyone who shares a passion for pushing the boundaries of what's possible! 🚀
