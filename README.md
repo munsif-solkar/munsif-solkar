@@ -12,7 +12,7 @@ Passionate about crafting elegant solutions and bringing ideas to life. My exper
 
 Unleash the power of instant, anonymous communication! This cutting-edge application, built using Python Flask and Socket.IO, lets users dive into conversations without revealing their identities. Experience the thrill of seamless, real-time interactions.
 
-🔗 [ealtime Chat](https://github.com/munsif-solkar/chatspear)
+🔗 [Realtime Chat](https://github.com/munsif-solkar/chatspear)
 
 ### Link Shortener with MongoDB 🔗
 
@@ -26,5 +26,6 @@ Let's join forces and create something extraordinary together. Reach out and let
 
 🌟 [GitHub](https://github.com/munsif-solkar)
 📧 [Email](munsifsolkar3@gmail.com)
+[Instagram](https://instagram.com/munsif_solkar)
 
 Looking forward to collaborating with fellow developers, visionaries, and anyone who shares a passion for pushing the boundaries of what's possible! 🚀
