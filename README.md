@@ -61,6 +61,5 @@ If you’re looking for someone who is honest about their skills, willing to lea
 ---
 
 📫 **Reach me:**  
-- Email: munsifsolkar3@gmail.com  
-- LinkedIn: *(add link)*  
+- Email: munsifsolkar3@gmail.com   
 - Location: Ratnagiri, Maharashtra
